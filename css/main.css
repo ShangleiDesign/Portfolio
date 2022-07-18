@@ -84,8 +84,8 @@
     hr.style-two {
       border: 0;
       height: 1px;
-      background: #00b894;
-      background-image: linear-gradient(to right, #fff, #00b894, #fff);
+      background: #2b7a78;
+      background-image: linear-gradient(to right, #fff, #2b7a78, #fff);
   }
   .overflow{
     overflow: hidden;
@@ -315,12 +315,12 @@
 .navbar-inverse .navbar-nav > .open > a {
   background-color: inherit;
   border: 0;
-  color: #00b894;
+  color: #2b7a78;
   font-weight: 500;
 }
 
 #header .navbar-inverse .navbar-nav  li a:hover{
-  color: #00b894;
+  color: #2b7a78;
 }
 
 
@@ -342,7 +342,7 @@ ul.sub-menu {
 }
 
 #header .navbar-nav li ul.sub-menu li .active{
-  background: #00b894;
+  background: #2b7a78;
   color: #fff;
   position: relative;
 }
@@ -351,7 +351,7 @@ ul.sub-menu {
   position: absolute;
   font-size: 56px;
   top: -13px;
-  color: #00b894;
+  color: #2b7a78;
 }
 
 #header .navbar-nav li ul.sub-menu li .active .fa-angle-right{
@@ -364,7 +364,7 @@ ul.sub-menu {
 
 #header .navbar-nav li ul.sub-menu li a:hover,
 #header .navbar-nav li ul.sub-menu li a:focus{
-  background: #00b894;
+  background: #2b7a78;
   color: #fff;
 }
 
@@ -516,7 +516,7 @@ ul.sub-menu {
 
 .form-control:hover, 
 .form-control:focus{
-  border-color: #00b894;
+  border-color: #2b7a78;
   outline: none;
   box-shadow: none;
 }
@@ -531,14 +531,14 @@ ul.sub-menu {
   text-align: center;
   border-radius: 6px;
   margin-top: 5px;
-  border: 2px solid #00b894;
+  border: 2px solid #2b7a78;
   box-shadow: none;
   padding: 10px;
 }
 
 .btn-submit:hover, 
 .btn-submit:focus{
-  background-color: #00b894;
+  background-color: #2b7a78;
   color: #fff;
   outline: none;
   box-shadow: none;
@@ -546,7 +546,7 @@ ul.sub-menu {
 }
 
 .btn-submit a{
-  color: #00b894;
+  color: #2b7a78;
 }
 .btn-submit:hover a, 
 .btn-submit:focus a{
@@ -559,7 +559,7 @@ ul.sub-menu {
 }
 
 .copyright-text a {
-  color: #00b894;
+  color: #2b7a78;
 }
 
 .copyright-text p {
@@ -890,8 +890,8 @@ ul.sub-menu {
 }
 
 .social-profile .nav-pills li a:hover {
-  color: #00b894;
-  border-color: #00b894;
+  color: #2b7a78;
+  border-color: #2b7a78;
 }
 
 .person-info h2 {
@@ -941,7 +941,7 @@ ul.sub-menu {
 
 .count h1{
   font-size: 60px;
-  color: #00b894;
+  color: #2b7a78;
 }
 
 .count h3{
@@ -985,7 +985,7 @@ h3.top-zero{
 }
 
 .progress-bar.progress-bar-primary{
-  background-color: #00b894;
+  background-color: #2b7a78;
 }
 
 
@@ -1134,8 +1134,8 @@ ul.elements li > i{
 }
 
 .portfolio-view .nav-pills li a:hover {
-  color: #00b894;
-  border-color: #00b894;
+  color: #2b7a78;
+  border-color: #2b7a78;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
@@ -1171,7 +1171,7 @@ ul.elements li > i{
   border-radius: 0;
   color: #686868;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 400;
   padding: 0 25px;
   text-transform: capitalize;
   border: none;
@@ -1181,7 +1181,7 @@ ul.elements li > i{
   background: transparent;
   box-shadow: none;
   -webkit-box-shadow: none;
-  color: #00b894;
+  color: #2b7a78;
 }
 
 .portfolio-filter li a:hover, 
@@ -1190,12 +1190,11 @@ ul.elements li > i{
   background: transparent;
   box-shadow: none;
   -webkit-box-shadow: none;
-  color: #00b894;
+  color: #2b7a78;
 }
 
 .portfolio-filter li a.active:before{
   position: absolute;
-
   content: "";
   left: 0;
   width: 13px;
@@ -1216,7 +1215,7 @@ ul.elements li > i{
 }
 
 .pagination li a{
-  color: #000;
+  color: #333333;
   padding: 5px 10px;
   border-radius: 5px;
   border: 1px solid #fff;
@@ -1277,8 +1276,8 @@ ul.elements li > i{
 .pagination .active a:focus, 
 .pagination a:focus {
   background: transparent;
-  border-color: #00b894;
-  color: #00b894;
+  border-color: #2b7a78;
+  color: #2b7a78;
 }
 
 
@@ -1316,19 +1315,19 @@ Portfolio with right sidebar
 .categories .navbar-stacked li a:hover{
   background: none;
   margin-left: 20px;
-  color: #00b894;
+  color: #2b7a78;
   opacity: 1;
 }
 
 .categories .navbar-stacked li.active a{
-  color: #00b894;
+  color: #2b7a78;
   padding-left: 20px;
 }
 
 .categories .navbar-stacked li.active a:before{
   position: absolute;
   content: "";
-  border-color: transparent transparent transparent #00b894;
+  border-color: transparent transparent transparent #2b7a78;
   border-width: 8px;
   border-style: solid;
   left: 0;
@@ -1374,7 +1373,7 @@ Portfolio with right sidebar
 }
 
 .sidebar-item .media:hover{
-  border-left: 2px solid #00b894;
+  border-left: 2px solid #2b7a78;
   padding-left: 5px;
   transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -1383,7 +1382,7 @@ Portfolio with right sidebar
 }
 
 .sidebar-item .media:hover.media .media-body h4 a{
-  color: #00b894;
+  color: #2b7a78;
   transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -webkit-transition: all 0.3s ease 0s;
@@ -1425,7 +1424,7 @@ Portfolio with right sidebar
 }
 
 .tag-cloud .nav-pills li a:hover{
-  background: #00b894;
+  background: #2b7a78;
 }
 
 .popular ul.gallery {
@@ -2519,6 +2518,11 @@ span.stButton_gradient,
   margin: 30px 0 0 0;
 }
 
+.resume_job_title, .resume_degree, resume_skill{
+color: #2b7a78;
+    font-weight: bold;
+}
+
 .resume_linebreak{
   border-top: 1px solid #cdcdcd;
 }
@@ -2530,7 +2534,7 @@ span.stButton_gradient,
 }
 
 .contact-info a:hover{
-  color:#00b894;
+  color:#2b7a78;
   text-decoration: underline;
 }
 
